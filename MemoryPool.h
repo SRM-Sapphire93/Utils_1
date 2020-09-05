@@ -100,9 +100,6 @@ inline void CMemoryPool<T>::_Push(T * p)
 template<typename T>
 inline CMemoryPool<T>::CMemoryPool()
 {
-    
-    
-
 }
 
 template<typename T>
